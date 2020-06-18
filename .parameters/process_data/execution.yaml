@@ -4,7 +4,7 @@ base_image: ubuntu1804
 machine_type: NDv2
 nodes: 50000
 cpu_per_node: 8
-ram_per_node: 16Gi
+ram_per_node_BADFIELD: 32Gi
 gpu_required: True
 output_root_path: 'https://contoso.s3.us-west-2.amazonaws.com/ml/processed_data'
 
