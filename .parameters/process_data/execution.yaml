@@ -2,7 +2,7 @@ schema_version: 2.0.0
 schema_type: data_process_run
 base_image: ubuntu1804
 machine_type: NDv2
-nodes: 5
+nodes: 50000
 cpu_per_node: 8
 ram_per_node: 16Gi
 gpu_required: True
